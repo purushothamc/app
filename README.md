@@ -1,2 +1,2 @@
-Plivo Python Examples
+Plivo Python
 =====================
